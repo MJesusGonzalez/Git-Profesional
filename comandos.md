@@ -31,12 +31,12 @@ ssh -T git@github.com
 
 # Repositorio
 Iniciar
-```git
+```Shell
 git init
 ```
 
 Agregar
-```git
+```Shell
 git add
 ```
 Agregar los archivos solo del subdirectorio
@@ -44,16 +44,31 @@ Agregar los archivos solo del subdirectorio
 git add -A
 ```
 Agregar solo los cambios (no nuevos archivos)
-```git
+```Shell
 git add -U
 ```
 
 Quitar del staging al trabajo
-```git
+```Shell
 git reset
 ```
 
 Enviar al repo
-```git
+```Shell
 git commit -m 'Mensaje'
+```
+
+# Github
+Subir a un repo en Github
+```Shell
+git push
+```
+
+Descargar cambios
+```Shell
+git pull
+```
+Clonar un repo remoto
+```Shell
+git clone url_del_repo.com
 ```
