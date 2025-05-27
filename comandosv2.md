@@ -21,3 +21,23 @@ Combinar una rama con main
 git checkout main
 git merge nombre_rama
 ```
+
+# Stash
+Guardar en stash
+```Shell
+git stash
+o
+git stash save "nombre a guardar"
+o
+git stash --include-untracked
+```
+Ver el stash
+```Shell
+git stash list
+```
+Sacar del stach al área de trabajo
+```Shell
+git stash pop
+o
+git stash pop stash@{numero_del_indice}
+```
