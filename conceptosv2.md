@@ -6,3 +6,7 @@
 - Linea en blanco entre titulo y descripción
 - Enfoque en qué y por qué
 - Convenciones definidas por el equipo
+
+# Uso de ramas
+Cada que se realice un cambio en el código
+- agregar, arreglar, eliminar, modificar
