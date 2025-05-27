@@ -13,3 +13,10 @@ Cada que se realice un cambio en el código
 
 # Merge de ramas
 - Unificar ramas
+
+## Tipos de Merge
+| Tipo | Concepto |
+|----------|----------|
+| Fast Forward merge | prederterminado: la rama con cambios tiene actualizada la última version de origen |
+| Merge Commit | Contiene los cambios que tiene ese merge |
+| squash merge | tiene todos los cambios a implementar|
