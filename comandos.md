@@ -72,3 +72,32 @@ Clonar un repo remoto
 ```Shell
 git clone url_del_repo.com
 ```
+
+# Comandos de visualizacion
+estado de los archivos
+```Shell
+git status
+o
+git status -s
+```
+
+Registro (Log) de los commits
+```Shell
+git log
+o
+git log --oneline
+o
+git log -n 2
+o
+git log --format=short medium full
+```
+
+Ver cambios entre repo local vs trabajo
+```Shell
+git dif
+```
+
+Ver cinfo de un commit específico
+```Shell
+git show id_del_commit
+```
