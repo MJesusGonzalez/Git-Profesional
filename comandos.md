@@ -52,3 +52,8 @@ Quitar del staging al trabajo
 ```git
 git reset
 ```
+
+Enviar al repo
+```git
+git commit -m 'Mensaje'
+```
