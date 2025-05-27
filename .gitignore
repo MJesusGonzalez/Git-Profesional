@@ -1,0 +1,12 @@
+# toda la carpeta
+node_modules/
+# archivos de log
+npm-debug.log*
+# archivos de entorno
+.env
+# archivos de caché
+.cache/
+# archivos por un patron
+*.log
+# rchivo por un patron de una carpeta específica
+logs/*.log
