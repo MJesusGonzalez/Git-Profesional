@@ -10,3 +10,6 @@
 # Uso de ramas
 Cada que se realice un cambio en el código
 - agregar, arreglar, eliminar, modificar
+
+# Merge de ramas
+- Unificar ramas
